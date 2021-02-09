@@ -67,8 +67,80 @@ _It may take you longer than others to grasp concepts_, or it may take you less 
 
 The Odin Project isn’t like college or university, _it is self paced and allows you to get a really solid grasp of concepts before moving on_. In school, you’re forced to keep up or you will fail. The difference here is that coming into The Odin Project, you’re not expected to have much knowledge, there’s no prerequisites. We’ve had people be successful coming through here that only knew how to check their email with a computer. We’ve also seen success from computer science degree holders. **Treating The Odin Project like a static timeline is understandable, but is a sign of misplaced expectations**. You simply don’t know what you don’t know yet, and that’s OK! There’s no due-dates on things in The Odin Project so you can spend the time to do it right and discuss the topics.
 
-Deadlines cause un-needed stress. Since The Odin Project is a free and open platform, you are not beholden to a deadline. _Creating your own deadlines is a good way to rush concepts that should not be rushed_. **This course is very research based, meaning you will have to do research to complete tasks and projects**. There’s no telling if you can find the article or post that helps you in the right way, quickly to meet your deadlines, but I bet you learned a TON along the way that you can use in the future. _People that do this kind of research and strive to write better solutions tend to become better developers in the future_. There’s no knowing how long it could take you to learn how to query stuff to find your answers. There are no solid guidelines on that. If you’re doing The Odin Project because you need a high paying job right-now, you’re not going to become a solid developer within the timeframe you have set. _Stress and anxiety absolutely do not help you learn either. **Relax and just enjoy the ride**_.
+Deadlines cause un-needed stress. Since The Odin Project is a free and open platform, you are not beholden to a deadline. _Creating your own deadlines is a good way to rush concepts that should not be rushed_. **This course is very research based, meaning you will have to do research to complete tasks and projects**. There’s no telling if you can find the article or post that helps you in the right way, quickly to meet your deadlines, but I bet you learned a TON along the way that you can use in the future. _People that do this kind of research and strive to write better solutions tend to become better developers in the future_. _There’s no knowing how long it could take you to learn how to query stuff to find your answers_. There are no solid guidelines on that. If you’re doing The Odin Project because you need a high paying job right-now, you’re not going to become a solid developer within the timeframe you have set. _Stress and anxiety absolutely do not help you learn either. **Relax and just enjoy the ride**_.
 
 ```
 Long story short: Don’t worry, just go learn
 ```
+
+## Pitfalls to Avoid
+
+The following are some of the pitfalls that beginners often encounter when learning how to program. Try your best to avoid these.
+
+### Procrastination
+
+Procrastination will be your biggest enemy when trying to make progress.
+
+**Solution**: The _Pomodoro Technique_ is a way of managing your time in order to stay focused. The idea is to set a timer for 25 minutes and to work on a task until the timer goes off. If you get distracted or interrupted during the 25 minutes, start the 25 minutes of work over again. Once you’ve successfully focused on work for 25 minutes, take a 5 minute break. When your break is over, repeat the 25 minutes of work and 5 minute break. After you’ve completed four 25 minute blocks of work, take a longer 15-30 minute break.
+
+The Pomodoro technique is great for avoiding procrastination as it forces you to work without distractions. Since the work time only lasts 25 minutes before taking a break, it’s not overwhelming, making it harder to rationalize procrastination.
+
+To learn more about the Pomodoro Technique, read this [great article](https://medium.com/life-hacks/more-productivity-with-the-pomodoro-technique-d7ce8926ec0c#.hcqsv37u4).
+
+If you want to try it out, [TomatoTimer](http://tomato-timer.com/#) is an easy-to-use Pomodoro timer.
+
+### Not Taking Breaks
+
+As you get into the material, you may feel compelled to continuously study for long periods of time. It might seem like you are getting more work done at first, but this often leads to burnout, which consequently results in lower productivity.
+
+It may seem counterintuitive, but you will actually get more done if you regularly step back to recharge your brain and body. Studies show that performance increases after breaks of all durations: from extended vacations down to microbreaks of 30 seconds. John Trougakos, Associate Professor of Management at the University of Toronto, says that mental concentration is similar to a muscle. Our focus becomes fatigued after sustained use and needs a rest period to recover, just like a bodybuilder resting between sets at the gym.
+
+**Solution**: Use the previously mentioned _Pomodoro Technique_ to time how often and how long to take your well-deserved breaks. Feel free to play around and experiment with different frequencies and durations of breaks.
+
+What to do during your break:
+
+- listen to music
+- journal
+- doodle
+- meditate
+- play a quick game
+- go for a short walk outside
+
+Read [this article](https://simpleprogrammer.com/taking-breaks-will-boost-productivity/) for more information on breaks & productivity.
+
+### Digital Distractions
+
+Digital distractions are email and Facebook notifications and time-wasting websites, such as social media. These distractions break your focus and make procrastination tempting. Therefore, they should be avoided during study time.
+
+**Solution**: Turn off notifications and add a blocker to your internet to limit your time on distracting sites.
+
+### Physical Distractions
+
+Physical distractions are distractions from your environment, like a TV in the background or other people talking. These distractions can be just as damaging to your focus as digital distractions.
+
+**Solution**: Find a quiet place to study where you can go to focus in your home. If that’s not an option, you can use noise cancelling headphones to block out noisy distractions in your environment.
+
+### Rabbit Holes
+
+Because we cover so much material on The Odin Project and link to so many high quality courses and tools, it is easy for students to get pulled into rabbit holes by spending time trying to learn all there is to know about a subject that they aren’t ready for or won’t benefit them much. _**We have put a lot of effort into structuring the curriculum so that all of the important things that you need to know about web development are covered exactly when you need to know them**_.
+
+**Solution**: **Stick to the path laid out as much as possible**. Try to limit time spent going down rabbit holes as these sidetracks can really ruin your momentum.
+
+### Comparing Yourself to Others
+
+Students often compare themselves to others who are farther along in their coding journey or have more experience. This is a recipe for depression and frustration.
+
+**Solution**: Only compare yourself to your past self. Have your abilities and knowledge improved from where you were last week, last month, or last year? Be proud of the progress that you’ve made!
+
+## Conclusion
+
+Learning any new skill is a journey full of speed bumps and obstacles to be overcome. We hope that the principles laid out here will put you in a much better position to succeed and to get the most out of The Odin Project.
+
+Without further ado, let’s jump in to learning web development!
+
+# Additional Resources
+
+- [Managing inspiration and motivation](https://markmanson.net/do-something)
+- [Learning to code when it gets dark](https://medium.freecodecamp.org/learning-to-code-when-it-gets-dark-e485edfb58fd#.yjh0fehje)
+- [Why learning to code is so damn hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+- [Improve your typing skills with Keybr.com](https://www.keybr.com/) Use this keyboard trainer if you find your typing speed is holding you back. We recommend to spend 5 mins everyday after you start your PC.
