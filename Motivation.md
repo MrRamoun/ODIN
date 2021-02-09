@@ -19,7 +19,7 @@ However, there is a wide body of research showing that intelligence is not fixed
 
 What does this mean for you? It means you can _learn new skills and develop new talents with **persistence** and **grit**_.
 
-There will be many times throughout The Odin Project that you will get stuck on a concept or a programming problem and may find yourself questioning your ability to learn programming. When you find yourself in this position, remind yourself that you may not get it yet but that with persistence and grit you will. Struggling with something is growth. It doesn’t matter how long you struggle with a concept or project; all that matters is that you have the grit and tenacity to see it through. That’s how real learning happens.
+There will be many times throughout The Odin Project that you will get stuck on a concept or a programming problem and may find yourself questioning your ability to learn programming. When you find yourself in this position, _remind yourself that you may not get it yet but that with persistence and grit you will_. Struggling with something is growth. **It doesn’t matter how long you struggle with a concept or project; all that matters is that you have the grit and tenacity to see it through**. That’s how real learning happens.
 
 While you’re working through the curriculum, embrace the struggles you encounter with difficult concepts and complex projects. Be sure to celebrate your persistence at overcoming those struggles!
 
